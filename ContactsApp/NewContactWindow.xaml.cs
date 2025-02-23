@@ -23,6 +23,8 @@ public partial class NewContactWindow : Window
     public NewContactWindow()
     {
         InitializeComponent();
+        Owner = Application.Current.MainWindow;
+        WindowStartupLocation = WindowStartupLocation.CenterOwner;
     }
     private void Save_Click(object sender, RoutedEventArgs e)
     {
@@ -36,6 +38,10 @@ public partial class NewContactWindow : Window
         using SQLiteConnection connection = new SQLiteConnection(App.dbPath);
         connection.Insert(contact);
 
+        Close();
+    }
+    private void CloseButton_Click(object sender, RoutedEventArgs e)
+    {
         Close();
     }
 }

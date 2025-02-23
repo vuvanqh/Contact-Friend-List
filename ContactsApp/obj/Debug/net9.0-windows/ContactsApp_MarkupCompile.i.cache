@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\App.xaml
-5152223760
+4-1720502713
 
-11-42213912
+101604597926
 205793053307
-Controls\ContactControlWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;SwitchWindow.xaml;UpdateDeleteWindow.xaml;
+Controls\ContactControlWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;UpdateDeleteWindow.xaml;
 
-False
+True
 

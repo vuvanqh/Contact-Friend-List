@@ -90,7 +90,6 @@ C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-win
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\Controls\ContactControlWindow.g.cs
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\MainWindow.g.cs
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\NewContactWindow.g.cs
-C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\SwitchWindow.g.cs
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\UpdateDeleteWindow.g.cs
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\App.g.cs
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
@@ -99,7 +98,6 @@ C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-win
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\Controls\ContactControlWindow.baml
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\MainWindow.baml
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\NewContactWindow.baml
-C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\SwitchWindow.baml
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\UpdateDeleteWindow.baml
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\ContactsApp.g.resources
 C:\Users\Hoang\Desktop\Uni\Projects\ContactList\ContactsApp\obj\Debug\net9.0-windows\ContactsApp.GeneratedMSBuildEditorConfig.editorconfig

@@ -63,7 +63,7 @@ namespace ContactsApp
 
         private void Change_ButtonUp(object sender, MouseButtonEventArgs e)
         {
-            SwitchWindow window = new SwitchWindow();
+            NewContactWindow window = new NewContactWindow();
             window.ShowDialog();
         }
     }

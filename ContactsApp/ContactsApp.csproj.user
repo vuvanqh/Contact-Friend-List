@@ -13,9 +13,6 @@
     <Compile Update="NewContactWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="SwitchWindow.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="UpdateDeleteWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -28,9 +25,6 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="NewContactWindow.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="SwitchWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="UpdateDeleteWindow.xaml">

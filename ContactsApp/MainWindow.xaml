@@ -18,6 +18,11 @@
                   Margin ="0,5,0,0"
                   Height="280"
                   MouseRightButtonUp="ContactList_MouseRightButtonUp">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListView.ItemContainerStyle>
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <uc:ContactControlWindow Contact="{Binding}"/>
