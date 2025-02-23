@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\New folder\\",
+  "WorkspaceRootPath": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\new folder\\contactsapp\\controls\\contactcontrolwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\contactlist\\contactsapp\\controls\\contactcontrolwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\controls\\contactcontrolwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\new folder\\contactsapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\contactlist\\contactsapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\contactlist\\contactsapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\contactlist\\contactsapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\contactlist\\contactsapp\\controls\\contactcontrolwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\controls\\contactcontrolwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|c:\\users\\hoang\\desktop\\uni\\projects\\contactlist\\contactsapp\\classes\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878051D4-E7BA-4415-A1D2-7B977EC7F29B}|ContactsApp\\ContactsApp.csproj|solutionrelative:contactsapp\\classes\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,11 +42,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\App.xaml",
+              "RelativeDocumentMoniker": "ContactsApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\App.xaml",
+              "RelativeToolTip": "ContactsApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T13:46:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ContactsApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\MainWindow.xaml",
+              "RelativeToolTip": "ContactsApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T13:44:45.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\Classes\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\Classes\\Contact.cs",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\Classes\\Contact.cs",
+              "RelativeToolTip": "ContactsApp\\Classes\\Contact.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:44:23.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactControlWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\Controls\\ContactControlWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ContactsApp\\Controls\\ContactControlWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\Controls\\ContactControlWindow.xaml.cs",
+              "RelativeToolTip": "ContactsApp\\Controls\\ContactControlWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:38:33.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ContactControlWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\New folder\\ContactsApp\\Controls\\ContactControlWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\Controls\\ContactControlWindow.xaml",
               "RelativeDocumentMoniker": "ContactsApp\\Controls\\ContactControlWindow.xaml",
-              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\New folder\\ContactsApp\\Controls\\ContactControlWindow.xaml",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\Controls\\ContactControlWindow.xaml",
               "RelativeToolTip": "ContactsApp\\Controls\\ContactControlWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-23T12:58:45.564Z",
@@ -40,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\New folder\\ContactsApp\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "ContactsApp\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\New folder\\ContactsApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\AssemblyInfo.cs",
               "RelativeToolTip": "ContactsApp\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

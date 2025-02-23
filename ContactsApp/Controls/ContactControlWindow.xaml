@@ -5,9 +5,9 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:ContactsApp.Controls"
              mc:Ignorable="d" 
-             d:DesignHeight="90" d:DesignWidth="300">
+             d:DesignHeight="90" d:DesignWidth="525">
     <Grid Background="#AAE5E5E5">
-        <StackPanel Margin="5">
+        <StackPanel Margin="5" >
             <TextBlock x:Name="NameBlock" FontSize="20" FontWeight="Bold"/>
             <TextBlock x:Name="EmailBlock" FontSize="15" Foreground="DodgerBlue"/>
             <TextBlock x:Name="PhoneBlock" FontSize="15" FontStyle="Italic"/>

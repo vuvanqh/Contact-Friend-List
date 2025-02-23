@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FNEXvXK30/g=",
+  "dgSpecHash": "OC8cEIZLtEo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\New folder\\ContactsApp\\ContactsApp.csproj",
+  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Uni\\Projects\\ContactList\\ContactsApp\\ContactsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoang\\.nuget\\packages\\sqlite-net-pcl\\1.9.172\\sqlite-net-pcl.1.9.172.nupkg.sha512",
     "C:\\Users\\Hoang\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.2\\sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",

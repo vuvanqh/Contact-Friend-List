@@ -20,7 +20,7 @@
                   MouseRightButtonUp="ContactList_MouseRightButtonUp">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <uc:ContactControlWindow Content="{Binding}"/>
+                    <uc:ContactControlWindow Contact="{Binding}"/>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>

@@ -70,7 +70,7 @@ namespace ContactsApp {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ContactsApp;V1.0.0.0;component/switchwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ContactsApp;component/switchwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\SwitchWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
